@@ -1,5 +1,5 @@
 #### This dataset is created by NAVER Connect Foundation. 
-# MRC(Machine Reading comprehension)
+# MRC(Machine Reading Comprehension)
 
 ## Overview
 
